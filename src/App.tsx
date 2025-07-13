@@ -98,11 +98,8 @@ function App() {
         <div className="container mx-auto px-4">
           <p className="text-xl font-semibold text-blue-300 mb-4">Created by Pratham Soni</p>
           <div className="flex justify-center space-x-6">
-            <a href="https://github.com/prathamsoni" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Pratham-1744" target="_blank" rel="noopener noreferrer">
               <Github className="w-6 h-6 text-gray-300 hover:text-white transition" />
-            </a>
-            <a href="https://instagram.com/prathamsoni" target="_blank" rel="noopener noreferrer">
-              <Instagram className="w-6 h-6 text-pink-400 hover:text-pink-500 transition" />
             </a>
           </div>
         </div>
